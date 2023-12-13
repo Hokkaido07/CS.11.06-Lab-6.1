@@ -1,6 +1,12 @@
 import java.io.*;
 import java.util.Scanner;
 
+/*
+This is lab 6.1 Adventure Time
+Author: Alexis Chiu
+Date: 12-13-2023
+ */
+
 public class AdventureTime {
 
     /** This is the main method and it is where you will test your implementations for challengeOne, challengeTwo, etc.
